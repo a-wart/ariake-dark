@@ -1,13 +1,13 @@
 # README
-## This is the README for your extension "ariake"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+## Ariake Dark color theme for Visual Studio Code
 
-* Split the editor (`Cmd+\` on OSX or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on OSX or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (OSX) to see a list of Markdown snippets
+This is (a bit customized) port of [Ariake Dark Syntax theme](https://github.com/pathtrk/ariake-dark-syntax) made by [@pathtrk](https://github.com/pathtrk/)
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+Ariake is an atom syntax theme inspired by Japanese traditional colors and the poetry composed 1000 years ago.
+
+"有明の　つれなく見えし　別れより　暁ばかり　憂きものはなし" - Mibu no Tadamine (壬生忠岑)
+
+"Since I saw the moon in dawn when you said good-bye, My heart aches every time I see it again."
+
 
 **Enjoy!**
