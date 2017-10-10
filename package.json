@@ -1,0 +1,22 @@
+{
+    "name": "ariake",
+    "displayName": "Ariake",
+    "description": "",
+    "version": "0.0.1",
+    "publisher": "no",
+    "engines": {
+        "vscode": "^1.15.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Ariake",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Ariake-color-theme.json"
+            }
+        ]
+    }
+}
