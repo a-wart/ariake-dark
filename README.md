@@ -9,5 +9,10 @@ Ariake is an atom syntax theme inspired by Japanese traditional colors and the p
 
 "Since I saw the moon in dawn when you said good-bye, My heart aches every time I see it again."
 
+### Screenshot example
+
+![Screenshot example](https://github.com/a-wart/ariake-dark/blob/master/misc/screenshot.png?raw=true)
+
+(Font used — Fira code, antialiasing enabled)
 
 **Enjoy!**
