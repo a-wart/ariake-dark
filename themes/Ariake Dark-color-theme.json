@@ -1,5 +1,5 @@
 {
-	"tokenColors": "./Ariake.tmTheme",
+	"tokenColors": "./Ariake Dark-color-theme.tmTheme",
 	"colors": {
 		"editor.lineHighlightBackground": "#65737e30",
 		"editor.background": "#2a2d37", // 2b303b
@@ -31,5 +31,5 @@
 		"editorHoverWidget.background": "#232830",
 		"editorHoverWidget.border": "#343d46"
 	},
-	"name": "Ariake"
+	"name": "Ariake Dark"
 }
