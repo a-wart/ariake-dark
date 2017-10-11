@@ -1,11 +1,11 @@
 {
-    "name": "ariake",
-    "displayName": "Ariake",
-    "description": "",
+    "name": "ariake-dark",
+    "displayName": "Ariake Dark",
+    "description": "Dark VSCode theme inspired by Japanese traditional colors and the poetry composed 1000 years ago",
     "version": "0.0.1",
-    "publisher": "no",
+    "publisher": "wart",
     "engines": {
-        "vscode": "^1.15.0"
+        "vscode": "^1.17.0"
     },
     "categories": [
         "Themes"
@@ -13,10 +13,13 @@
     "contributes": {
         "themes": [
             {
-                "label": "Ariake",
+                "label": "Ariake Dark",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Ariake-color-theme.json"
+                "path": "./themes/Ariake Dark-color-theme.json"
             }
         ]
+    },
+    "dependencies": {
+        "generator-code": "^1.1.20"
     }
 }
