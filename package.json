@@ -2,7 +2,7 @@
 	"name": "ariake-dark",
 	"displayName": "Ariake Dark",
 	"description": "Dark VSCode theme inspired by Japanese traditional colors and the poetry composed 1000 years ago",
-	"version": "0.0.3",
+	"version": "0.0.4",
 	"publisher": "wart",
 	"engines": {
 		"vscode": "^1.17.0"
