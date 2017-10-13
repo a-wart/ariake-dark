@@ -1,3 +1,5 @@
+![Title image](https://github.com/a-wart/ariake-dark/blob/master/misc/ariake_dark_github.png?raw=true)
+
 # README
 ## Ariake Dark color theme for Visual Studio Code
 
