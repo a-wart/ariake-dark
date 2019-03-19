@@ -1,31 +1,31 @@
 {
-	"name": "ariake-dark",
-	"displayName": "Ariake Dark",
-	"description": "Dark VSCode theme inspired by Japanese traditional colors and the poetry composed 1000 years ago",
-	"version": "0.1.1",
-	"publisher": "wart",
-	"engines": {
-		"vscode": "^1.17.0"
-	},
-	"categories": [
-		"Themes"
-	],
-	"icon": "icon.png",
-	"contributes": {
-		"themes": [
-			{
-				"label": "Ariake Dark",
-				"uiTheme": "vs-dark",
-				"path": "./themes/Ariake Dark-color-theme.json"
-			}
-		]
-	},
-	"dependencies": {
-		"generator-code": "^1.1.20"
-	},
-	"__metadata": {
-		"id": "d4f6606c-59fe-4fbe-8b09-4786ea0bf349",
-		"publisherId": "e2a52de2-1af3-44dc-a7ec-568a9c7743dd",
-		"publisherDisplayName": "wart"
-	}
+    "name": "ariake-dark",
+    "displayName": "Ariake Dark",
+    "description": "Dark VSCode theme inspired by Japanese traditional colors and the poetry composed 1000 years ago",
+    "version": "0.2.1",
+    "publisher": "wart",
+    "engines": {
+        "vscode": "^1.17.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "icon": "icon.png",
+    "contributes": {
+        "themes": [
+            {
+                "label": "Ariake Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Ariake Dark-color-theme.json"
+            }
+        ]
+    },
+    "dependencies": {
+        "generator-code": "^1.1.20"
+    },
+    "__metadata": {
+        "id": "d4f6606c-59fe-4fbe-8b09-4786ea0bf349",
+        "publisherId": "e2a52de2-1af3-44dc-a7ec-568a9c7743dd",
+        "publisherDisplayName": "wart"
+    }
 }
